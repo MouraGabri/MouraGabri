@@ -1,6 +1,7 @@
 ### Hello! I'm Gabriel Moura ✋
 📌Studying Computer Science<br>
-📌Studying Java
+📌Studying Java<br>
+📌English student
 
 Redes Sociais 🌐
 
