@@ -1,7 +1,7 @@
 ### Hello! I'm Gabriel Moura ✋
-📌Studying Computer Science<br>
-📌Studying Java<br>
-📌English student
+📌Stududent Computer Science<br>
+📌Neste momento estou aprendendo SQL 
+
 
 Redes Sociais 🌐
 
@@ -10,8 +10,9 @@ Redes Sociais 🌐
 
 ![Gabriel MouraGitHub stats](https://github-readme-stats.vercel.app/api?username=MouraGabri&show_icons=true&theme=dark)
 
-### Technologies I use in my day:
+### 🌐 Technologies que eu uso no meu dia:
 <div style="display: inline_block">
-<img  align="center" alt="htmlS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img  align="center" alt="htmlS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  style="display: inline_block">
+<img  align="center" alt="htmlS" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
 </div><br/>
- I am passionate about technology, English, and education. I believe in programming to change people's lives.
+ 
