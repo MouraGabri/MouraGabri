@@ -1,18 +1,14 @@
-### Hello! I'm Gabriel Moura ✋
-📌Stududent Computer Science<br>
-📌Neste momento estou aprendendo SQL 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Moura;I'm+21+years+old;I+from+Brazil;I'm+studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MouraGabri&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Moura github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouraGabri&layout=compact&hide_border=true&title_color=1E90FF&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
-Redes Sociais 🌐
-
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ad%C3%A3o-michel-moura-55773825b/)
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moura_gabriel_0/)
-
-![Gabriel MouraGitHub stats](https://github-readme-stats.vercel.app/api?username=MouraGabri&show_icons=true&theme=dark)
-
-### 🌐 Technologies que eu uso no meu dia:
-<div style="display: inline_block">
-<img  align="center" alt="htmlS" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"  style="display: inline_block">
-<img  align="center" alt="htmlS" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-</div><br/>
- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MouraGabri&bg_color=212121&color=ffffff&line=2f5da7&point=2b5da7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center"> 
+<a href="https://www.instagram.com/moura_gabriel_0/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "gm194463@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.linkedin.com/in/carolbarbosa/](https://www.linkedin.com/in/gabriel-ad%C3%A3o-michel-moura-55773825b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
