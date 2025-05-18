@@ -26,16 +26,14 @@
 
 <div align="center">
   <h3>My Skills:</h3>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Pandas-%23E03C31?style=for-the-badge&logo=pandas&logoColor=white"> <!-- Vermelho vibrante -->
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Tableau-%23FF8C00?style=for-the-badge&logo=tableau&logoColor=white"> <!-- Laranja vibrante -->
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-SQL-%2300A86B?style=for-the-badge&logo=mysql&logoColor=white"> <!-- Verde esmeralda -->
+    <img src="https://img.shields.io/badge/-SQL-%2300A86B?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-Python-%233B73E8?style=for-the-badge&logo=python&logoColor=white"> <!-- Azul vibrante -->
+    <img src="https://img.shields.io/badge/-Python-%233B73E8?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
 </div>
